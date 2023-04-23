@@ -1,5 +1,2 @@
 #Otus course JS
-change in develop
-
-chages in dev-branch for pr
-one more changes
+Создано в расках курса OTUS JavaScript QA Engineer
