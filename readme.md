@@ -1,2 +1,3 @@
 #Otus course JS
-change in develop
+change in develop 
+local change fo confl
